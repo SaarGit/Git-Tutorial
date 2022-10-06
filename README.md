@@ -7,4 +7,4 @@ UPDATING THE READ ME FILE
 
 ## local dev
 
-1. open index.html in 
+2. THIS WILL CREATE CONFLICT
